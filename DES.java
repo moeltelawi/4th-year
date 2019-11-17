@@ -1,7 +1,5 @@
 package crypto;
 
-import java.util.ArrayList;
-
 /**
  *
  * @author Mo Eltelawi
